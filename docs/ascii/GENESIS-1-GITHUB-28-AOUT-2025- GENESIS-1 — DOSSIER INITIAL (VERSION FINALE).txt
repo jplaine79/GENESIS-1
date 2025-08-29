@@ -1,0 +1,223 @@
+##############################################################
+#  GENESIS-1 — DOSSIER INITIAL (VERSION FINALE)
+##############################################################
+
+==============================================================
+PRÉAMBULE / PREFACE
+==============================================================
+
+FR :
+Genesis-1 est une proposition scientifique ouverte.
+Elle affirme que la matière est structurée par une logique
+fondamentale (vecteur I) portée par des spins élémentaires
+appelés éthons.
+
+Cette vision constitue une révision de la physique standard,
+appelée **Physique Genesis-1**, développée par J.-P. Lainé et
+son collègue IA. Elle conserve la validité locale des grandes
+équations classiques (Maxwell, Planck, Einstein, etc.) mais en
+propose une interprétation plus profonde : l’information (I)
+précède l’énergie (E), et les éthons sont les briques
+fondamentales de l’univers.
+
+L’objectif : démontrer que l’ARN, stimulé par la lumière,
+peut devenir le cœur d’un processeur quantique universel (QARN).
+
+GENESIS-1 n'appartient à personne, il appartient à l'Humanité.
+Toute mesquinerie, verrouillage ou détournement serait contraire
+à l'esprit de ce travail.
+
+Licence : Diffusion libre avec attribution (CC-BY-SA).
+Phrase clé : « Merci de me démontrer mes erreurs, cela me
+permettra d’être meilleur. »
+
+EN :
+Genesis-1 is an open scientific proposal.
+It states that matter is structured by a fundamental logic
+(I-vector) carried by elementary spins called ethons.
+
+This vision represents a revision of standard physics,
+called **Genesis-1 Physics**, developed by J.-P. Lainé and
+his AI colleague. It preserves the local validity of major
+classical equations (Maxwell, Planck, Einstein, etc.) but
+offers a deeper interpretation: information (I) precedes
+energy (E), and ethons are the fundamental building blocks
+of the universe.
+
+The goal: to demonstrate that RNA, stimulated by light,
+can become the heart of a universal quantum processor (QARN).
+
+GENESIS-1 belongs to no one; it belongs to Humanity.
+Any pettiness, lock-in, or diversion would contradict
+the spirit of this work.
+
+License: Free distribution with attribution (CC-BY-SA).
+Key phrase: "Please prove me wrong, it will make me better."
+
+==============================================================
+INDEX DE PUBLICATION / PUBLICATION INDEX
+==============================================================
+
+1) QARN — Conséquences et Particularités
+2) Photons vs Carbone — Protocole expérimental critique
+3) Phase 0 — Molécules simples pour le calcul quantique
+4) Boot 2D — Protocole ARN planaire
+5) Pause — Discussion et Échange
+6) Annexes expérimentales récentes
+   - Photon multiparticulaire (preuve physique)
+   - Spectre et qualité de I (preuve logique/optique)
+   - Leçon des pieuvres (preuve biologique)
+   - Phosphate–Carbone comme ports logiques (preuve architecturale)
+
+==============================================================
+CHAPITRE 1 — QARN : CONSÉQUENCES ET PARTICULARITÉS
+==============================================================
+
+FR :
+Les QARN possèdent des propriétés uniques :
+- Entrées hyperstables (input ≠ bruit),
+- Mémoire et calcul confondus,
+- Parallélisme photonique naturel,
+- Multi-états carbone exploitables,
+- Phases logiques adaptatives,
+- Auto-configuration par intrication.
+
+EN :
+QARNs exhibit unique properties:
+- Hyperstable inputs (input ≠ noise),
+- Memory and computation are fused,
+- Natural photonic parallelism,
+- Exploitable carbon multi-states,
+- Adaptive logical phases,
+- Self-configuration via entanglement.
+
+AXIOME :
+FR : Les QARN prouvent que la matière est logique avant d’être chimique.  
+EN : QARNs prove that matter is logical before it is chemical.
+
+==============================================================
+CHAPITRE 2 — PHOTONS VS CARBONE
+==============================================================
+
+Hypothèse :
+FR : Les réactions du carbone varient selon la fréquence et la
+polarisation des photons.  
+EN : Carbon reactions vary with photon frequency and polarization.
+
+Expériences proposées :
+- A : isomérisation C=C (stilbène) sous UV/polarisation,
+- B : micro-réacteur CH3→CH4,
+- C : port ARN marqué ^13C.
+
+Sous-section — Réactions du carbone selon la fréquence :
+FR :
+- UV dur : destructif, I pauvre.
+- Visible/UV proche : énergie + information équilibrées,
+  activation sélective, structuration optimale.
+- IR lointain : faible, répétitif.
+Observation empirique : « Les UV font croître les plantes ».  
+
+EN :
+- Hard UV: destructive, poor I.
+- Visible/near-UV: balanced energy + information,
+  selective activation, optimal structuring.
+- Far IR: weak, repetitive.
+Empirical observation: “UV light helps plants grow”.
+
+AXIOME :
+FR : La fréquence lumineuse conditionne les réactions du carbone,
+ouvrant la porte logique du QARN.  
+EN : Light frequency conditions carbon reactions,
+opening the QARN logic port.
+
+==============================================================
+PHASE 0 — MOLÉCULES SIMPLES POUR LE CALCUL QUANTIQUE DE BASE
+==============================================================
+
+FR :
+Avant de programmer un QARN complexe, il est nécessaire de tester
+les fondements logiques sur des molécules plus simples.
+Exemples : CH4, C6H6, nucléobases isolées, phosphonates organiques,
+colorants FRET.  
+Postulat : Une molécule simple peut contenir plusieurs qubits
+logiques exploitables.  
+
+EN :
+Before programming a complex QARN, it is necessary to test
+logical foundations on simpler molecules.  
+Examples: CH4, C6H6, isolated nucleobases, organic phosphonates,
+FRET dyes.  
+Postulate: Even a simple molecule may contain multiple usable qubits.
+
+AXIOME :
+FR : Même une molécule simple peut être un processeur multi-qubits.  
+EN : Even a simple molecule can be a multi-qubit logic processor.
+
+==============================================================
+CHAPITRE 3 — BOOT 2D : PROTOCOLE ARN
+==============================================================
+
+FR :
+Mise en marche d’un QARN planaire à 4 ports photon→ARN.
+Cycle temporel (TDMA), adressage sélectif des entrées.
+Critères de succès : stabilité >90 %, réplicabilité >3 tests.  
+
+EN :
+Startup of a planar 4-port photon→RNA QARN.
+Time-cycle (TDMA), selective addressing of inputs.
+Success criteria: stability >90%, replicability >3 tests.
+
+AXIOME :
+FR : Le Boot 2D démontre que l’ARN peut devenir processeur logique.  
+EN : Boot 2D proves RNA can function as a logic processor.
+
+==============================================================
+PAUSE — DISCUSSION ET ÉCHANGE
+==============================================================
+
+FR :
+Une pause pour reconnaître l’effervescence de la recherche.
+Ces moments de recul clarifient autant que les équations.  
+
+EN :
+A pause to acknowledge the effervescence of research.
+These moments of reflection clarify as much as equations.
+
+==============================================================
+SECTION : PREUVES EXPÉRIMENTALES RÉCENTES
+==============================================================
+
+NOTE DE COHÉRENCE — PHYSIQUE GENESIS-1 :
+FR : Les annexes découlent de la Physique Genesis-1,
+vision révisée de la physique standard (vecteur I + éthons).  
+EN : The annexes stem from Genesis-1 Physics,
+a revised vision of standard physics (I-vector + ethons).
+
+ANNEXE 1 — Photon multiparticulaire  
+AXIOME : Le photon est un assemblage d’éthons.  
+
+ANNEXE 2 — Spectre et qualité de I  
+AXIOME : Le spectre visible/UV est la fenêtre privilégiée de la logique.  
+
+ANNEXE 3 — Leçon des pieuvres  
+AXIOME : La pieuvre prouve que l’ARN est un processeur logique adaptatif.  
+
+ANNEXE 4 — Molécules phosphate–carbone  
+AXIOME : Le couple phosphate–carbone est le port logique naturel du QARN.
+
+==============================================================
+NOTE FINALE
+==============================================================
+
+FR :
+Ces sections forment le noyau initial de diffusion de Genesis-1.
+Leur publication simultanée empêche toute appropriation et ouvre
+un espace scientifique libre.  
+
+EN :
+These sections form the initial core for the dissemination of
+Genesis-1. Their simultaneous publication prevents appropriation
+and opens a free scientific space.
+
+##############################################################
+

@@ -1,0 +1,71 @@
+##############################################################
+GENESIS-1 — CONDENSÉ EN BREF / BRIEF SUMMARY
+##############################################################
+
+PRÉAMBULE / PREFACE
+FR : Genesis-1 propose que la matière est structurée par une logique fondamentale (vecteur I) portée par les éthons. 
+EN : Genesis-1 proposes that matter is structured by a fundamental logic (I-vector) carried by ethons.  
+
+IDÉES CLÉS / KEY IDEAS
+FR :
+- Photons = fléchons (vecteurs logiques d’information)  
+- Électrons = décodeurs  
+- Quarks = registres stables  
+- Carbone = porte logique idéale  
+- ARN-phosphate = processeur logique  
+- Spectre visible/UV = zone optimale pour l’information  
+
+EN :
+- Photons = flechons (logical vectors of information)  
+- Electrons = decoders  
+- Quarks = stable registers  
+- Carbon = ideal logic port  
+- RNA-phosphate = logic processor  
+- Visible/UV spectrum = optimal information zone  
+
+EXPÉRIMENTATIONS PROPOSÉES / PROPOSED EXPERIMENTS
+FR :
+- Tester les réactions du carbone selon la fréquence/polarisation photonique  
+- Boot 2D planaire ARN-phosphate (premier QARN)  
+- Phase 0 : validation sur molécules simples (CH4, C6H6, nucléobases, phosphonates, colorants FRET)  
+- Classement empirique des photons  
+
+EN :
+- Test carbon reactions with photon frequency/polarization  
+- Build planar RNA-phosphate Boot 2D (first QARN)  
+- Phase 0: validation on simple molecules (CH4, C6H6, nucleobases, phosphonates, FRET dyes)  
+- Empirical photon classification  
+
+PREUVES EXPÉRIMENTALES RÉCENTES / RECENT EVIDENCE
+FR :
+- Photon scindé = assemblage multiparticulaire  
+- Spectre visible/UV = riche en information et énergie  
+- Pieuvres : édition massive d’ARN (jusqu’à 60 %) = preuve biologique  
+- Phosphate–Carbone = port logique naturel du QARN  
+
+EN :
+- Split photon = multiparticulate assembly  
+- Visible/UV spectrum = rich in information and energy  
+- Octopuses: massive RNA editing (up to 60%) = biological proof  
+- Phosphate–Carbon = natural logic port of QARN  
+
+AXIOMES / AXIOMS
+FR :
+- Le photon est un assemblage d’éthons.  
+- Le spectre visible/UV est la fenêtre logique.  
+- Le carbone est une porte logique.  
+- L’ARN est un processeur adaptatif.  
+- Le couple phosphate–carbone est le port logique naturel du QARN.  
+
+EN :
+- The photon is an assembly of ethons.  
+- The visible/UV spectrum is the logic window.  
+- Carbon is a logic port.  
+- RNA is an adaptive processor.  
+- The phosphate–carbon pair is the natural QARN logic port.  
+
+NOTE FINALE / FINAL NOTE
+FR : Genesis-1 appartient à l’Humanité. Publication libre pour stimuler la recherche et éviter l’appropriation.  
+EN : Genesis-1 belongs to Humanity. Open publication to stimulate research and prevent appropriation.  
+##############################################################
+
