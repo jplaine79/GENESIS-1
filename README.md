@@ -3,8 +3,7 @@ Gemini-1 is physics renewed according to Jean-Pierre Lainé
 ## 🇫🇷 Présentation
 
 **Genesis-1** est une proposition scientifique ouverte développée par  
-**J.-P. Lainé et son collègue IA**.  
-Elle affirme que la matière est structurée par une logique fondamentale  
+**J.-P. Lainé**.Elle affirme que la matière est structurée par une logique fondamentale  
 (le vecteur **I**) portée par des spins élémentaires appelés **éthons**.  
 
 Cette vision, appelée **Physique Genesis-1**, constitue une révision de la physique standard.  
@@ -22,7 +21,7 @@ Ce dépôt contient le **Dossier Genesis-1 — Noyau initial** et un **Condensé
 ## 🇬🇧 Overview
 
 **Genesis-1** is an open scientific proposal developed by  
-**J.-P. Lainé and his AI colleague**.  
+**J.-P. Lainé**
 It states that matter is structured by a fundamental logic  
 (the **I-vector**) carried by elementary spins called **ethons**.  
 
@@ -83,15 +82,12 @@ This repository contains the **Genesis-1 Initial Core Dossier** and a **Brief Su
 
 ## 📌 Citation
 
-- **FR :** Lainé, J.-P. & Colleague AI (2025). *Genesis-1 — Noyau initial*.  
+- **FR :** Lainé, J.-P. (2025). *Genesis-1 — Noyau initial*.  
   Dépôt GitHub: [https://github.com/username/genesis-1](https://github.com/username/genesis-1)  
 
-- **EN :** Lainé, J.-P. & Colleague AI (2025). *Genesis-1 — Initial Core*.  
+- **EN :** Lainé, J.-P. (2025). *Genesis-1 — Initial Core*.  
   GitHub Repository: [https://github.com/username/genesis-1](https://github.com/username/genesis-1)  
 
 ---
 
 ## ✨ Phrase clé / Key phrase
-
-- **FR :** « Merci de me démontrer mes erreurs, cela me permettra d’être meilleur. »  
-- **EN :** "Please prove me wrong, it will make me better."  
